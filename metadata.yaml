@@ -1,0 +1,29 @@
+_repo: Across-AmericaThe-Great-West-and-the-Pacific-Coast_42706
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42706-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rusling, James Fowler
+    birthdate: 1834
+    deathdate: 1918
+    gutenberg_agent_id: '41824'
+    url: http://www.gutenberg.org/2009/agents/41824
+description: ''
+gutenberg_issued: '2013-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42706'
+  lccn: rc01001535
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'Pacific States -- Description and travel'
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'Overland journeys to the Pacific'
+title: Across America; Or, The Great West and the Pacific Coast
+url: http://www.gutenberg.org/ebooks/42706
